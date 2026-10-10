@@ -1,1 +1,1 @@
-console.log("Mi gato se llama Chester.");
+console.log("Mi gato se llama Chester y es un mañoso.");
